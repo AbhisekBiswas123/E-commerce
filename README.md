@@ -6,6 +6,7 @@ This project is a full-stack e-commerce platform built using the MERN stack (Mon
 
 - Admin authentication using JWT (token stored in localStorage).
 - Add and delete products from the MongoDB database.
+- Image Uploads: Used Multer for uploading and saving images.
 - Frontend built with React and deployed on Netlify.
 - Backend built with Node.js, Express, and connected to MongoDB, deployed on Render.
   
